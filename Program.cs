@@ -6,18 +6,14 @@ namespace MoeQuiz
     {
         static void Main(string[] args)
         {
-            Dog d1 = new Dog();
-            d1.Name = "Flash";
-            d1.Color = "Black";
-            d1.LegCount = 4;
-            d1.Sound = "RRRUF";
-            Console.WriteLine(d1.GetInfo());
-            Cat c1 = new Cat();
-            c1.Name = "Dior";
-            c1.Color = "Mixed";
-            c1.LegCount = 4;
-            c1.Sound = "MEWWOOO";
-            Console.WriteLine(c1.GetInfo());
+           Animal a1 = new Animal();
+           a1.Color = "Black";
+           a1.Name = "Max";
+           a1.LegCount = 4;
+           a1.DogSound = "RRRUFF";
+           a1.CatSound = "MEWOOOOWW";
+           Console.WriteLine(a1.CatInfo());
+           Console.WriteLine(a1.DogInfo());
         }
     }
 }

@@ -1,15 +1,11 @@
 ﻿using System;
 namespace MoeQuiz
 {
-    public class Dog : Animal
+    public interface IDog
     {
-        public string Sound { get; set; }
+        public string DogSound { get; set; }
 
-       
+        
 
-        public override string GetInfo()
-        {
-            return $"Name: {Name}, Color: {Color}, Legs: {LegCount}, Sound: {Sound}";   
-        }
     }
 }
