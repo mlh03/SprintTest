@@ -1,0 +1,15 @@
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/bin/Debug/net5.0/MoeQuiz.deps.json
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/bin/Debug/net5.0/MoeQuiz.runtimeconfig.json
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/bin/Debug/net5.0/MoeQuiz.runtimeconfig.dev.json
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/bin/Debug/net5.0/MoeQuiz.dll
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/bin/Debug/net5.0/ref/MoeQuiz.dll
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/bin/Debug/net5.0/MoeQuiz.pdb
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/obj/Debug/net5.0/MoeQuiz.csproj.AssemblyReference.cache
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/obj/Debug/net5.0/MoeQuiz.GeneratedMSBuildEditorConfig.editorconfig
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/obj/Debug/net5.0/MoeQuiz.AssemblyInfoInputs.cache
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/obj/Debug/net5.0/MoeQuiz.AssemblyInfo.cs
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/obj/Debug/net5.0/MoeQuiz.csproj.CoreCompileInputs.cache
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/obj/Debug/net5.0/MoeQuiz.dll
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/obj/Debug/net5.0/ref/MoeQuiz.dll
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/obj/Debug/net5.0/MoeQuiz.pdb
+/Users/mohamedalsadi/Desktop/Apps/MoeQuizApp/MoeQuiz/obj/Debug/net5.0/MoeQuiz.genruntimeconfig.cache
