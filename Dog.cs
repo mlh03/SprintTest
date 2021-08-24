@@ -5,9 +5,11 @@ namespace MoeQuiz
     {
         public string Sound { get; set; }
 
-        public string getInfo()
+       
+
+        public override string GetInfo()
         {
-            return $"Name: {Name}, Color: {Color}, Legs: {LegCount}, Sound: {Sound}";
+            return $"Name: {Name}, Color: {Color}, Legs: {LegCount}, Sound: {Sound}";   
         }
     }
 }
